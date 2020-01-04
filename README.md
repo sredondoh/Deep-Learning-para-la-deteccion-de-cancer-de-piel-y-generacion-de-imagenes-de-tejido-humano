@@ -19,10 +19,10 @@ Características técnicas:
 	Python 3.6.8
 	Tensorﬂow 2-gpu
 
-<s>Primer paso:</s> Crear el entorno en anaconda
+<b>Primer paso:</b> Crear el entorno en anaconda
 $ conda create -n new environment --file req.txt
 Si utilizas pip:
 $ env1/bin/pip freeze > root-spec.txt
 $ env2/bin/pip install -r root-spec.txt
 
-<s>Segundo paso:</s> Descargar todas las imagenes del archivo ISIC https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery
+<b>Segundo paso:</b> Descargar todas las imagenes del archivo ISIC https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery
