@@ -20,6 +20,7 @@ Características técnicas:
 -	Tensorﬂow 2-gpu
 
 <b>Primer paso:</b> Crear el entorno en anaconda
+
 <i>conda create -n new environment --file req.txt</i>
 
 Si utilizas pip:
