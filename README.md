@@ -21,7 +21,7 @@ Características técnicas:
 
 <b>Primer paso:</b> Crear el entorno en anaconda
 
-<i>conda create -n new environment --file req.txt</i>
+<i>conda create -n new environment --file root-spec.txt</i>
 
 Si utilizas pip:
 
