@@ -11,18 +11,18 @@ En este repositorio se presenta el código utilizado para la elaboración del tr
 
 Características técnicas:
 
-	Nvida Geforce RTX 2060 6GB
-	Intel Core i7-9759H 2.60GHz
-	RAM 16GB
-	HDD SSD 1TB
-	Windows 10 sistema 64bits
-	Python 3.6.8
-	Tensorﬂow 2-gpu
+-	Nvida Geforce RTX 2060 6GB
+-	Intel Core i7-9759H 2.60GHz
+-	RAM 16GB
+-	HDD SSD 1TB
+-	Windows 10 sistema 64bits
+-	Python 3.6.8
+-	Tensorﬂow 2-gpu
 
 <b>Primer paso:</b> Crear el entorno en anaconda
-$ conda create -n new environment --file req.txt
+<k>conda create -n new environment --file req.txt</k>
 Si utilizas pip:
-$ env1/bin/pip freeze > root-spec.txt
-$ env2/bin/pip install -r root-spec.txt
+<k>env1/bin/pip freeze > root-spec.txt</k>
+<k>env2/bin/pip install -r root-spec.txt</k>
 
 <b>Segundo paso:</b> Descargar todas las imagenes del archivo ISIC https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery
