@@ -23,6 +23,7 @@ Características técnicas:
 <i>conda create -n new environment --file req.txt</i>
 
 Si utilizas pip:
+
 <i>env1/bin/pip freeze > root-spec.txt</i>
 
 <i>env2/bin/pip install -r root-spec.txt</i>
