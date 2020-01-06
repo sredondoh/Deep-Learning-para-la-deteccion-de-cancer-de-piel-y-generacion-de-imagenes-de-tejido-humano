@@ -6,7 +6,7 @@ En este repositorio se presenta el código utilizado para la elaboración del tr
 - Autor: Sandra Redondo Hernández
 - Directores: Ferran Reverter Comes y Esteban Vegas Lozano
 - Departamento: Genética, Microbiología y Estadística. Sección Estadística.
-- Universidad: Universidad Politécnica de Catalunya
+- Universidad: Universidad Politécnica de Cataluña-Universidad de Barcelona
 - Convocatoria: Enero 2020
 
 Características técnicas:
